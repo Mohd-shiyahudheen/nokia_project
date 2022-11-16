@@ -1,0 +1,10 @@
+.first{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.text-filed{
+    margin-top: 300px;
+    border-color: black;
+}
