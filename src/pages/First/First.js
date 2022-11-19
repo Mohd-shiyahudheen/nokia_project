@@ -20,8 +20,6 @@ const First = () => {
             label="Enter input"
             variant="outlined"
           />
-          {/* <TextField id="filled-basic" label="Filled" variant="filled" />
-        <TextField id="standard-basic" label="Standard" variant="standard" /> */}
         </Box>
       </div>
     </div>
